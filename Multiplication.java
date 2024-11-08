@@ -17,6 +17,7 @@ public class Multiplication {
                 System.out.println("Veuillez fournir un nombre en argument.");
             }
         }
+        
     }
     
 
